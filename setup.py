@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-    Setup porewit-ci package
+    Setup pastebin package
 """
 
 from setuptools import setup, find_packages
@@ -9,7 +9,7 @@ from pip.req import parse_requirements
 
 setup(
     name="pastebin",
-    version="0.0.0",
+    version="0.0.1",
     license="MIT",
 
     description="dead simple pastebin",
